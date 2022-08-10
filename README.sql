@@ -62,13 +62,13 @@ INSERT INTO
 		UTIS_CODE
 )
 VALUES
-	(N'Xumar',N'Əliyeva',N'Eldəniz','2015-05-12',N'Qadın','2',N'Azərbaycan','8w46h7t',3826191),
-	(N'Ləman',N'Paşalı',N'Cəsur','2015-07-14',N'Qadın','2',N'Azərbaycan','8w2erz3',3724509),
-	(N'Aytən',N'Əlizadə',N'Yadulla','2015-07-14',N'Qadın','2',N'Azərbaycan','8mmjhrk',4070538),
-	(N'Cahan',N'Həbibli',N'Amil','2015-01-19',N'Qadın','2',N'Azərbaycan','8w5ku9g',3753853),
-	(N'Nurlan',N'Quliyev',N'Faiq','2015-05-12',N'Kişi','2',N'Azərbaycan','7rec01n',4070540),
-	(N'Fazilə',N'Quluzadə',N'Bəhmən','2015-06-15',N'Qadın','2',N'Azərbaycan','8w6gtbx',4070541),
-	(N'Əli',N'Magmudlu',N'Fuad','2015-05-15',N'Kişi','2',N'Azərbaycan','8vuqfmq',4070538),
-	(N'Güllü',N'Şirinova',N'İznulla','2015-08-24',N'Qadın','2',N'Azərbaycan','8wb0261',3724509),
-	(N'Şamil',N'Mərdanzadə',N'Emil','2015-11-29',N'Kişi','2',N'Azərbaycan','8vtdekk',3753890);
+	(N'Xumar',N'Əliyeva',N'Eldəniz','2015-05-12',N'Qadın','2',N'Azərbaycan','8w4h7t',382691),
+	(N'Ləman',N'Paşalı',N'Cəsur','2015-07-14',N'Qadın','2',N'Azərbaycan','8w2ez3',372459),
+	(N'Aytən',N'Əlizadə',N'Yadulla','2015-07-14',N'Qadın','2',N'Azərbaycan','8mjhrk',407538),
+	(N'Cahan',N'Həbibli',N'Amil','2015-01-19',N'Qadın','2',N'Azərbaycan','8w5u9g',375853),
+	(N'Nurlan',N'Quliyev',N'Faiq','2015-05-12',N'Kişi','2',N'Azərbaycan','7rec1n',407540),
+	(N'Fazilə',N'Quluzadə',N'Bəhmən','2015-06-15',N'Qadın','2',N'Azərbaycan','8wgtbx',470541),
+	(N'Əli',N'Magmudlu',N'Fuad','2015-05-15',N'Kişi','2',N'Azərbaycan','8vufmq',407538),
+	(N'Güllü',N'Şirinova',N'İznulla','2015-08-24',N'Qadın','2',N'Azərbaycan','8w0261',324509),
+	(N'Şamil',N'Mərdanzadə',N'Emil','2015-11-29',N'Kişi','2',N'Azərbaycan','8vtekk',375390);
 go
