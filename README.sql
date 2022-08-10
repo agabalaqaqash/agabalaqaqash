@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @agabalaqaqash
+- 👋 Hi, I’m @karimliaghabala
 - 👀 I’m interested in SQL
 - 🌱 I’m currently learning SQL, HTML, CSS, JS ...
 
